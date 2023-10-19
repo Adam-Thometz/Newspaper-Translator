@@ -1,4 +1,4 @@
-# Web Scraper
+# Newspaper Trnaslator
 
 This is a web scraping app that gets headlines from foreign newspapers and translates them into English using AI.
 
