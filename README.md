@@ -1,6 +1,11 @@
 # Web Scraper
 
-This is a web scraping app that gets headlines from foreign newspapers and translates them into English
+This is a web scraping app that gets headlines from foreign newspapers and translates them into English using AI.
+
+## Tech used
+- Python
+- OpenAI API
+- Beautiful Soup + LXML
 
 ## Setup (from root directory)
 1. `python3 -m venv env`
@@ -8,4 +13,5 @@ This is a web scraping app that gets headlines from foreign newspapers and trans
 3. `pip install`
 4. `touch secret.py`
 5. `echo "OPENAI_API_KEY = <your OpenAI API key>"`
-6. `python3 main.py`
+
+Run with `python3 main.py`.
