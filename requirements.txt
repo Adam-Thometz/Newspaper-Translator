@@ -130,6 +130,7 @@ libclang==15.0.6.1
 lightgbm==3.3.5
 lightning-utilities==0.8.0
 llvmlite==0.40.0
+lxml==4.9.3
 Markdown==3.4.1
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
