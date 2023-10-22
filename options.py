@@ -6,6 +6,6 @@
 # }
 
 country_newspapers = {
-	"Spain": ("https://elpais.com", ".c_t"),
-	"France": ("https://www.lemonde.fr", ".article__title-label")
+	"Spain": "https://elpais.com",
+	"France": "https://www.lemonde.fr"
 }
